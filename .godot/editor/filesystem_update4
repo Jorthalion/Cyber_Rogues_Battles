@@ -1,0 +1,5 @@
+res://main.tscn
+res://Scripts/Core/Enums.cs
+res://Scripts/Core/UnitInstance.cs
+res://Scripts/Core/CardData.cs
+res://Scripts/Core/PlayerData.cs

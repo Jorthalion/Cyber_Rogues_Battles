@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "X/8CNNZUy8I=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jorth\\Cyber_Rogues_Battles\\cyber_rogue_wars.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jorth\\.nuget\\packages\\godot.sourcegenerators\\4.7.0\\godot.sourcegenerators.4.7.0.nupkg.sha512",
+    "C:\\Users\\jorth\\.nuget\\packages\\godotsharp\\4.7.0\\godotsharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\jorth\\.nuget\\packages\\godotsharpeditor\\4.7.0\\godotsharpeditor.4.7.0.nupkg.sha512",
+    "C:\\Users\\jorth\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.28\\microsoft.netcore.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\jorth\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.28\\microsoft.windowsdesktop.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\jorth\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.28\\microsoft.aspnetcore.app.ref.8.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

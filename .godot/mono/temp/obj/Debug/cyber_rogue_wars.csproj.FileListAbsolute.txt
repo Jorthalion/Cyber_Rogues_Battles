@@ -1,0 +1,6 @@
+C:\Users\jorth\Cyber_Rogues_Battles\.godot\mono\temp\obj\Debug\cyber_rogue_wars.csproj.AssemblyReference.cache
+C:\Users\jorth\Cyber_Rogues_Battles\.godot\mono\temp\obj\Debug\cyber_rogue_wars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorth\Cyber_Rogues_Battles\.godot\mono\temp\obj\Debug\cyber_rogue_wars.AssemblyInfoInputs.cache
+C:\Users\jorth\Cyber_Rogues_Battles\.godot\mono\temp\obj\Debug\cyber_rogue_wars.AssemblyInfo.cs
+C:\Users\jorth\Cyber_Rogues_Battles\.godot\mono\temp\obj\Debug\cyber_rogue_wars.csproj.CoreCompileInputs.cache
+C:\Users\jorth\Cyber_Rogues_Battles\.godot\mono\temp\obj\Debug\cyber_rogue_wars.sourcelink.json
